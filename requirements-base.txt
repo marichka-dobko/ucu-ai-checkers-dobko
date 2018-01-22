@@ -1,0 +1,8 @@
+Flask==0.12.2
+matplotlib==2.1.0
+numpy==1.13.3
+pytest==3.2.3
+pytest-runner==2.11.1
+requests==2.18.4
+urllib3==1.22
+git+git://github.com/YuriyGuts/libcheckers@v0.1.1#egg=libcheckers
