@@ -12,4 +12,4 @@ It contains minimax search with heuristic function and alpha-beta pruning for co
 
 ## Arena Example
 
-<img src="https://user-images.githubusercontent.com/2750531/32143627-fa839a28-bcb4-11e7-9d75-bf2698b7c193.gif" width="1100px" height="500px" align="middle"/>
+<img src="https://user-images.githubusercontent.com/2750531/32143627-fa839a28-bcb4-11e7-9d75-bf2698b7c193.gif" width="1200px" height="450px" align="middle"/>
